@@ -1,0 +1,10 @@
+$myColor: red;
+
+.Jokes>h1 {
+  color: $myColor;
+}
+
+.Jokes{
+    display: flex;
+    float :left;
+ }
